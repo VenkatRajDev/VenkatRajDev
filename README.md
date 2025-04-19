@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Venkat</h1>
 <h3 align="center">A passionate mobile app developer Building Cross-Platform Apps with React Native</h3>
-<img align="right" alt="coding" width="400"  src="https://imgvisuals.com/cdn/shop/products/animated-isolated-coding-specialist-722044.gif?v=1698899302" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatrajdev&label=Profile%20views&color=0e75b6&style=flat" alt="venkatrajdev" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400"  src="https://imgvisuals.com/cdn/shop/products/animated-isolated-coding-specialist-722044.gif?v=1698899302" />
 
 - 🔭 I’m currently working on **GoldenPower**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript,Reat APIs**
 
 - 💬 Ask me about **React Native,Android,Mobile Apps**
 
