@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **venkatraj.g505@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/b609a377c1a2fda6/EZKwEE27unpAg64QKgVSoYgBUpnYiPgWRCQTQpOEU_A9MQ?e=Kh9Bwl)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/b609a377c1a2fda6/EVqqvX8UDaNKi0BLutWEMMwBL5fYe7q4RV6k-13vqezbgg?e=fchJBR)
 
 - ⚡ Fun fact **I love Cartoons**
 
