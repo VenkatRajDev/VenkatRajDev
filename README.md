@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile app developer Building Cross-Platform Apps with React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatrajdev&label=Profile%20views&color=0e75b6&style=flat" alt="venkatrajdev" /> </p>
-<img align="right" alt="coding" width="350"  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUzYWJ4M3ViN3c4dWVhaWt4a250MTA4cGp6c2R4ZXk4em5vZW9hYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" />
 
 - 🔭 I’m currently working on **GoldenPower**
 
